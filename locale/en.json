@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Theme customizer",
+    "description": "Customize the Web GUI appearance: set a wallpaper and its transparency, change the global font (except the message composer) and the composer font independently, and pick accent colors. Open Settings → Theme to use it. Settings are stored in the plugin configuration and apply live."
+  }
+}
